@@ -1,7 +1,0 @@
-Frontend - React Developer 
-
-React Native Developer
-
-Backend - node js (1 db (sql - mongo db) 1 cloud - aws)
-
-git, GitHub, testing unit test integration E2e - good 
